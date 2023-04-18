@@ -1,0 +1,43 @@
+.cabecalho{
+    padding:2% 1% 1% 20%;
+    background-color: #22D4FD ;
+    font-family: 'Roboto Mono', monospace;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+*{
+    margin: 0%;
+    text-decoration: none;
+}
+
+.secao{
+    padding: 10% 40%;
+}
+
+body{
+    height: 100vh;
+    background-color: black;
+    color: #f6f6f6;
+}
+
+h2{
+    color: #22D4FD;
+}
+
+.rodape{
+    color:#000000;
+    background-color: #22D4FD;
+    padding: 23px;
+    text-align: center;
+    font-family:'Montserrat',sans-serif ;
+    font-size: 16px;
+    font-weight: 400;;
+}
+
+h1{
+    color: #f6f6f6;
+}
+
+

@@ -1,0 +1,51 @@
+.cabecalho{
+    padding:2% 1% 1% 20%;
+    background-color: #22D4FD ;
+    font-family: 'Roboto Mono', monospace;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.cabecalho_menu_link{
+    gap: 80px;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+}
+
+.corpo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4% 15%;
+    flex-direction: column;
+}
+
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: black;
+    color: aliceblue;
+}
+
+h1{
+    color: #22D4FD;
+}
+
+p{
+    font-size: 20px;
+}
+
+.rodape{
+    color:#000000;
+    background-color: #22D4FD;
+    padding: 23px;
+    text-align: center;
+    font-family:'Montserrat',sans-serif ;
+    font-size: 16px;
+    font-weight: 400;;
+}
